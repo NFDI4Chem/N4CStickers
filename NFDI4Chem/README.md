@@ -8,6 +8,7 @@
 
 <p align = "left">
 <img src="./NFDI4Chem.png" height="200">
+<img src="./NFDI4Chem2.png" height="200">
 </p>
 
 In case you need different versions, check out the `Makefile` how to convert.
