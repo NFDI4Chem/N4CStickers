@@ -244,8 +244,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.5863015"
-     inkscape:cx="-39.799723"
-     inkscape:cy="106.12738"
+     inkscape:cx="-109.5905"
+     inkscape:cy="104.58077"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -314,7 +314,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Link"
-     style="display:none">
+     style="display:inline">
 
 
 <text
@@ -328,6 +328,7 @@
      sodipodi:role="line"
      id="tspan1442"
      style="fill:#195f94;fill-opacity:1;stroke-width:1.25">www.nfdi4chem.de</tspan></text>
+
 
 
 </g><g
